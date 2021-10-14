@@ -22,8 +22,8 @@ This repo works like a lab. It is a quick reference for the basic functionality 
 
 
 ## Screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/137249928-6e3f668b-f1fb-4535-8bb1-9d10364fb5a5.png" width="500" height="700"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/137249929-036b944d-bcca-4589-8244-eaf941c39c09.png" width="500" height="700"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/137249928-6e3f668b-f1fb-4535-8bb1-9d10364fb5a5.png" width="300" height="500"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/137249929-036b944d-bcca-4589-8244-eaf941c39c09.png" width="300" height="500"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/5893219/137249931-8045d7d3-3da0-402f-8846-9877ee8075fb.png" width="150" height="300"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/5893219/137249933-5ab2b619-c018-48f7-af71-9dddd1167351.png" width="150" height="300"></kbd>
 <kbd><img src="https://user-images.githubusercontent.com/5893219/137249935-29dae1d0-3d63-4cb9-ad1c-dbd05ce77efe.png" width="150" height="300"></kbd>
