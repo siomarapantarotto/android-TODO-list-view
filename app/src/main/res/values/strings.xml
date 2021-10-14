@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="enter_task_to_do">Enter a task to do...</string>
+    <string name="save">Save</string>
+    <string name="inform_mandatory_task">Informing a task is mandatory.</string>
+    <string name="task_added_successfully">Task added successfully.</string>
+    <string name="task_removed_successfully">Task removed successfully.</string>
+</resources>
